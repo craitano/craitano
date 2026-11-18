@@ -4,7 +4,7 @@
 
 ### Windows customization
 
-| Project | What it is |
+| Project | Description |
 |---|---|
-| **ShellCandy** | A shell prompt for PowerShell, written in Rust *(coming soon)* |
-| **Mosaic** | Alt+Tab, better organized: windows grouped by app, with the monitor each one is on *(coming soon)* |
+| [**ShellCandy**](https://github.com/craitano/shellcandy) | A fast, customizable PowerShell prompt written in Rust, so your terminal looks as good as the rest of your desktop *(coming soon)* |
+| [**Mosaic**](https://github.com/craitano/mosaic) | A smarter Alt+Tab for Windows. Windows are tiled by app, show which monitor they're on, and flag what needs your attention, so the right one is always a keystroke away *(coming soon)* |
