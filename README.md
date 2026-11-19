@@ -1,10 +1,15 @@
-## Hi, I'm Chris 👋
+<img src="assets/banner.png" alt="craitano" width="100%">
 
-<!-- A sentence or two about you goes here -->
+### About Me
+
+```
+> cat intro.txt
+still working on it
+```
 
 ### Windows customization
 
-| Project | Description |
-|---|---|
-| [**ShellCandy**](https://github.com/craitano/shellcandy) | A fast, customizable PowerShell prompt written in Rust, so your terminal looks as good as the rest of your desktop *(coming soon)* |
-| [**Mosaic**](https://github.com/craitano/mosaic) | A smarter Alt+Tab for Windows. Windows are tiled by app, show which monitor they're on, and flag what needs your attention, so the right one is always a keystroke away *(coming soon)* |
+<a href="https://github.com/craitano/shellcandy#gh-dark-mode-only"><img src="assets/shellcandy-dark.svg" alt="ShellCandy: a robust PowerShell theming and customization engine. Coming soon." width="410"></a>
+<a href="https://github.com/craitano/shellcandy#gh-light-mode-only"><img src="assets/shellcandy-light.svg" alt="ShellCandy: a robust PowerShell theming and customization engine. Coming soon." width="410"></a>
+<a href="https://github.com/craitano/mosaic#gh-dark-mode-only"><img src="assets/mosaic-dark.svg" alt="Mosaic: a smarter Alt+Tab for Windows. Coming soon." width="410"></a>
+<a href="https://github.com/craitano/mosaic#gh-light-mode-only"><img src="assets/mosaic-light.svg" alt="Mosaic: a smarter Alt+Tab for Windows. Coming soon." width="410"></a>
